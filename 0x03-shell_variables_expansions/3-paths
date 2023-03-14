@@ -1,2 +1,2 @@
 #!/bin/bash
-$PATH ls -A | wc-l
+$PATH  wc-l
