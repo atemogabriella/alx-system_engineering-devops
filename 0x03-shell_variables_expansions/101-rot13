@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'abc' | tr xy 
+echo 'Everyone is a proponent of strong encryption' | tr [a-zA-Z] [n-za-m-N-ZA-M]
