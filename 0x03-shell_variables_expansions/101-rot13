@@ -1,2 +1,2 @@
 #!/bin/bash
-echo '| tr [a-zA-Z] [n-za-m-N-ZA-M]'
+| tr [a-zA-Z] [n-za-m-N-ZA-M]
