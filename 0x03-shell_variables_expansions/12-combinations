@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $ ((26*(a..z))) (^oo) \n 
+echo {a..z}{a..z} | tr " " "\n" | grep -v 'oo'  
