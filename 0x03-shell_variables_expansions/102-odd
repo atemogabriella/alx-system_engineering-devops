@@ -1,2 +1,2 @@
 #!/bin/bash
-comm - -nocheck-order
+ls -al
