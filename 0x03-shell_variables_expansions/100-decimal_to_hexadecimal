@@ -1,0 +1,2 @@
+#!/bin/bash
+printf " |tr '%f' '%x'\n" $DECIMAL
