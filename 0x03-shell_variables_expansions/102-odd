@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -o 
+sort -o 0-alias 
