@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'Everyone is a proponent of strong encryption' | rot13
+echo 'abc' | tr xy 
